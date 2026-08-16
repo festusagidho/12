@@ -1,0 +1,8 @@
+{
+  "name": "Gold Intelligence AI (GIA)",
+  "description": "Enterprise AI market intelligence engine for Gold (XAUUSD) forecasting. Perform technical, fundamental, macro, and sentiment analysis with specialized autonomous AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
